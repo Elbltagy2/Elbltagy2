@@ -1,39 +1,42 @@
-# Hi there 👋 I'm Ahmed Elbltagy
+<div align="center">
 
-**Software Engineer @ [Specright](https://www.specright.com)** — building web apps and developer tooling.
+# Software Engineer @ Specright
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
-## 🚀 Featured project
+![visitors](https://komarev.com/ghpvc/?username=Elbltagy2&style=for-the-badge&color=2aa06c&label=visitors)
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Elbltagy2&theme=dark&hide_border=true&background=0d1117&ring=2aa06c&fire=d0763b&currStreakLabel=2aa06c)](https://github.com/Elbltagy2)
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Elbltagy2&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=2aa06c&title_color=2aa06c" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elbltagy2&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=2aa06c" alt="Top languages" />
+
+<br/><br/>
+
+## 🛠 Tech
+
+[![Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,python,java,postgres,prisma,jest,git,aws&perline=12)](https://github.com/Elbltagy2)
+
+<br/>
+
+## 🚀 Featured
 
 ### [jest-graph-tia](https://github.com/Elbltagy2/jest-graph-tia) — Test Impact Analysis for Jest
 
-Selects the minimal safe set of Jest tests for a PR by combining Jest's static import graph with a
-[Graphify](https://github.com/Graphify-Labs/graphify) knowledge graph — catching dependencies Jest can't see
-(type-only imports, dynamic requires, fs-read fixtures).
+Runs only the tests a PR can actually affect — including dependencies Jest can't see<br/>
+(type-only imports, dynamic requires, fs-read fixtures) via a knowledge graph.
 
-- 📉 On a real production repo: **580-test suite → ~13 tests per PR (2%)**, zero missed failures
-- 🔍 `audit` command finds source files **no test reaches** (found 834 in one scan)
-- 🛡️ Hard safety invariant: the graph only ever *adds* tests to Jest's own selection
-- ✅ `verify` command measures escape-rate nightly — trust is a metric, not a promise
+**580-test suite → ~13 tests per PR (2%) · zero missed failures · `audit` finds untested files**
 
-## 📊 GitHub stats
+<br/>
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Elbltagy2&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elbltagy2&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-## 📫 Reach me
+## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elbltagy)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elbltagy2)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.elbeltagy@specright.com)
+
+</div>
